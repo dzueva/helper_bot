@@ -16,4 +16,4 @@ python3 main.py
 
 ![chat_group](img/group.png)
 
-ссылка на бота: `t.me/messageHelp_bot`
+ссылка на бота: [t.me/messageHelp_bot](https://t.me/messageHelp_bot)
